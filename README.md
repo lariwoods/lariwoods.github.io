@@ -39,5 +39,5 @@ UNICID — Universidade Cidade de São Paulo
 ## Contato
 
 - LinkedIn: (https://www.linkedin.com/in/larissa-dos-santos-soares-855076417/))
-- GitHub: [@lariwoods](https://www.linkedin.com/in/larissa-dos-santos-soares-855076417/)
+- GitHub: (https://www.linkedin.com/in/larissa-dos-santos-soares-855076417/](https://github.com/lariwoods)
 - E-mail: lari.soares100a@gmail.com
