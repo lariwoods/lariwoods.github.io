@@ -12,21 +12,15 @@ Busco ampliar continuamente minhas habilidades técnicas e adquirir experiência
 
 ### PetCare Manager
 
-Projeto acadêmico voltado à criação de uma solução digital para uma clínica veterinária e pet shop. Participei do levantamento de requisitos, análise de processos, modelagem BPMN e UML e elaboração de protótipos.
-
-[Ver projeto](LINK_DO_REPOSITORIO)
+Projeto acadêmico voltado à criação de uma solução digital para auxiliar na gestão de uma clínica veterinária e pet shop. O projeto envolveu levantamento de requisitos, análise de processos, modelagem UML e BPMN e prototipagem de interfaces.
 
 ### Dubai Express
 
-Projeto acadêmico desenvolvido na disciplina de Engenharia de Prompt e Inteligência Artificial. Desenvolvi, em equipe, uma plataforma de viagens sobre Dubai utilizando ferramentas de IA e aprimoramento iterativo de prompts.
-
-[Ver projeto](LINK_DO_REPOSITORIO)
+Projeto acadêmico desenvolvido na disciplina de Engenharia de Prompt e Inteligência Artificial. A proposta foi criar uma plataforma de viagens sobre Dubai, utilizando ferramentas de Inteligência Artificial e aprimoramento iterativo de prompts para desenvolver a solução.
 
 ### Biblioteca+ Acessível
 
-Projeto desenvolvido no tema “Design para Todos — Criando uma Solução Digital Inclusiva”, com foco em acessibilidade e experiência do usuário. Participei da estruturação da solução, personas, arquitetura da informação, user flow e prototipagem.
-
-[Ver projeto](LINK_DO_REPOSITORIO)
+Projeto desenvolvido no tema “Design para Todos — Criando uma Solução Digital Inclusiva”. A proposta foi desenvolver uma solução digital acessível para o SNBU, utilizando conceitos de UX, acessibilidade, arquitetura da informação, personas, jornada do usuário e prototipagem.
 
 ## Habilidades
 
@@ -44,6 +38,6 @@ UNICID — Universidade Cidade de São Paulo
 
 ## Contato
 
-- LinkedIn: (https://www.linkedin.com/in/larissa-dos-santos-soares-855076417/)
-- GitHub: (https://github.com/lariwoods/lariwoods.github.io)
+- LinkedIn: (https://www.linkedin.com/in/larissa-dos-santos-soares-855076417/))
+- GitHub: [@lariwoods](https://www.linkedin.com/in/larissa-dos-santos-soares-855076417/)
 - E-mail: lari.soares100a@gmail.com
